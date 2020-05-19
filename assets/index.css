@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Gotham-Black';
+    src: url('fuentes/Gotham-Black.otf');
+  }
+  @font-face {
+    font-family: 'GothamBook';
+    src: url('fuentes/GothamBook.ttf');
+}
+a{
+    color: #3A1D87 !important;
+}
+
+p{
+    color: #3A1D87 !important;
+}
+.opcion-a{
+    font-family: 'Gotham-Black' !important;
+    color: #3A1D87 !important;
+    font-size: 15px !important;
+    content: none;
+    font-weight: 400 !important;
+}
+
+.space{
+    margin-top: 8% !important;
+}
+.border{
+    margin-top: 10%;
+}
+
+.space-padding{
+    
+   
+    padding-top: 5% !important;
+    padding-bottom: 5% !important;
+    border: solid #5E2A95  ;
+    -webkit-border-radius: 15px;
+   
+}
+
+.opcion{
+    background-color: white;
+    border: solid #5E2A95 !important ;
+    -webkit-border-radius: 25px;
+    margin-top: 5% !important;
+    content: none;
+    
+}
